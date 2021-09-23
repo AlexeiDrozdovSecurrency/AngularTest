@@ -8,7 +8,11 @@ Here is what we would like you to do:
 
 ## Application Requirements
 
-
+* Write an application that displays a list of countries. Data should be requested from an external server - https://restcountries.com/. You may choose in what way you wish to present the list as long as it is easy on the eyes. Required fields (but not limited to) to be displayed are Name, Region, Subregion and Flag.
+* The application should have a search bar located at the top of the list. A user should be able to type a string phrase into the search input and the countries list should be filtered by their names. A filtered list should be requested from the server side.
+* The list displayed should also contain pagination with an option to navigate to different pages. In addition, there should be also an option to select the page size (possible values should be 5, 10, 25, 100).
+* A user should be able to view the details of their selected country. Clicking on a country should navigate the user to a page where all the details of the country are displayed. At the top of that page should be a ‘back’ button that navigates the user back to the list. Navigation should be possible by changing only the URL.
+* Pick design of your choice for the application keeping it as user-friendly as possible.
 
 If you realize that the implementation takes more time than reasonable, please describe all of your thoughts and intentions as described down below.
 
