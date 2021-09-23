@@ -13,6 +13,7 @@ Here is what we would like you to do:
 * The list displayed should also contain pagination with an option to navigate to different pages. In addition, there should be also an option to select the page size (possible values should be 5, 10, 25, 100).
 * A user should be able to view the details of their selected country. Clicking on a country should navigate the user to a page where all the details of the country are displayed. At the top of that page should be a ‘back’ button that navigates the user back to the list. Navigation should be possible by changing only the URL.
 * Pick design of your choice for the application keeping it as user-friendly as possible.
+* The application will be viewed in modern browsers, including those running on mobile devices.
 
 If you realize that the implementation takes more time than reasonable, please describe all of your thoughts and intentions as described down below.
 
